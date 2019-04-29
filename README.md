@@ -6,5 +6,15 @@ facebook is a typical example for oauth service.There are applications which ask
 
 Message flow.
 
+1.Create a project at Github develpoer oauth API and get the secreat key and the ID
+2.Install the ruby from https://rubyinstaller.org/
+3.Install the sinathra gem file from the command prompt
+4.run the server.rb from the command prompt "ruby server.rb"
+5.run the index.rb from you browser and the sinathra port is localhost:4567
+6.you should get the token at localhost:4567/callback  which is located at the server.rb/callback
+7.If you have been successfully authorized you will be redirected to basic.erb page
+
+
+goodluck...............
 
 

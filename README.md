@@ -4,7 +4,7 @@ This file demonstrates how we can authorize a user into the github accounts by u
 oauth is a framework where users do not need to use their usernames and passwords to get services .
 facebook is a typical example for oauth service.There are applications which ask you if they can get your facbook profile images etc.All you have to do is to agree and on the background the oauth authorization framework will function and you do not have to provide your facebook password and username.
 
-Message flow.
+Steps for testing
 
 1.Create a project at Github develpoer oauth API and get the secreat key and the ID
 2.Install the ruby from https://rubyinstaller.org/
